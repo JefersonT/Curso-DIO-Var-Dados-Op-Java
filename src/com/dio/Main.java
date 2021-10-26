@@ -48,5 +48,54 @@ public class Main {
         System.out.println(NUMERO_TENTATIVAS);
         System.out.println(NUMERO_OPCOES);
 
+        //AULA 02
+        //Criar um simples projeto no IntelliJ e criar duas variáveis para cada tipo de dado apresentado.
+        int i1 = 792378723;
+//    int i2 = 3484738295298297;
+
+        byte b1 = 15;
+        byte b2 = 39;
+
+//    short s1 = 84984;
+        short s2 = 2432;
+
+        long l1 = 8492889258284095639l;
+        long l2 = 8037629042783487083l;
+
+//    float f1 = 4.7;
+        float f2 = 4.246839F;
+
+        double d1 = 34.094;
+        double d2 = 893.8483;
+
+        char c1 = 'W';
+//    char c2 = 'ed';
+        char c3 = '\u0057';
+
+        String st1 = "Fulano";
+        String st2 = "Cicrano";
+        String st3 = "sdflkasdj  falsdkj  dkakd la  alsdkf";
+//    String st4 = "11/12/2021";
+
+        boolean bol1 = true;
+        boolean bol2 = false;
+
+        System.out.println(i1);
+        System.out.println(b1);
+        System.out.println(b2);
+        System.out.println(s2);
+        System.out.println(l1);
+        System.out.println(l2);
+        System.out.println(f2);
+        System.out.println(d1);
+        System.out.println(d2);
+        System.out.println(c1);
+        System.out.println(c3);
+        System.out.println(st1);
+        System.out.println(st3);
+        System.out.println(st2);
+        System.out.println(bol1);
+        System.out.println(bol2);
+
     }
 }
