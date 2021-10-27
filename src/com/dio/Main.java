@@ -200,6 +200,7 @@ public class Main {
     }
 
     private static void aula04(){
+
         byte b1;
         short s1 = 1000;
 
